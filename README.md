@@ -4,4 +4,4 @@ Dit is een demo depository. Hier zit geen echte code in.
 
 ## Wat kan ik Hiermee?
 
-Eigenlijk niets dus.
+Eigenlijk niet zoveel dus.
